@@ -26,7 +26,14 @@
 * [Шпаргалка по Highload-ифноблокам](http://max22.ru/d7/highload-about/)
 * [Пользовательские типы полей](https://blog.sibirix.ru/2012/05/12/user-type-description/)
 * [Пользовательские функции и SEO инфоблоков](https://dev.1c-bitrix.ru/community/blogs/oracle/userdefined-functions-and-seo-infoblock.php)
+* [Магазин. Часть I. О бедном товаре замолвите слово](https://dev.1c-bitrix.ru/community/blogs/vws/about-poor-product-say-a-word.php)
+
+### Подготовка к экзаменам
+* [Про сертификацию](https://academy.1c-bitrix.ru/learning/certification.php)
+* [Экзамен №2 (основные технологии)](https://dev.1c-bitrix.ru/community/blogs/dev_bx/a-recording-of-the-webinar-prepared-in-examination-no-2-the-delay-func.php)
 
 ### Best practice
 * [Немного удобств в интеграции html-блоков на сайте](http://blog.d-it.ru/dev/few-amenities-in-the-integration-of-the-html-blocks-on-the-website/)
 * [Про оптимизацию](http://zhurov.me/blog/1c-bitrix-optimization-backend.html)
+
+
