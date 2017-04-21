@@ -1,4 +1,6 @@
 # Материалы для самостоятельного изучения
+## PHP
+* [Справочник](http://php.net/manual/ru/)
 ## Курсы 1С-Битрикс
 ### Обязательно для изучения
 * [Контент-менеджер](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&referer1=devlearn&referer2=all)
@@ -36,4 +38,26 @@
 * [Немного удобств в интеграции html-блоков на сайте](http://blog.d-it.ru/dev/few-amenities-in-the-integration-of-the-html-blocks-on-the-website/)
 * [Про оптимизацию](http://zhurov.me/blog/1c-bitrix-optimization-backend.html)
 
+### Для самых любознательных
+Данные материалы представлены для ознакомления, мы ПОКА не применяем их в production.
+* [Базовые компоненты Битрикс](http://bbc.bitrix.expert/)
 
+## Frontend-технологии
+### JavaScript
+* [Учебник по JavaScript](https://learn.javascript.ru/)
+* [Шпаргалка по jQuery](http://jquery.page2page.ru)
+* [Вебинар: функциональное программирование в JavaScript](https://youtu.be/8nWQCcqUwR0)
+
+### Верстка
+* [БЭМ](https://ru.bem.info/methodology/)
+* [BEM: Откровения принявших веру](http://delka.name/blog/2013/04/bem-otkroveniya-prinyavshih-veru/)
+* [Вебинар: BemUp для начинающих](https://youtu.be/Ai-yt0b8iKE)
+* [Полное руководство по Flexbox](https://frontender.info/a-guide-to-flexbox/)
+* [Практическое руководство по SVG в Web'е](https://svgontheweb.com/ru/)
+
+### Для самых любознательных
+* [Оптимизация рендеринга web-страницы](https://habrahabr.ru/post/224187/)
+* [Производительный client side](https://youtu.be/kmhg-cV5Vkg)
+* [Знакомство с Промисами](http://prgssr.ru/development/razbiraemsya-s-promisami-osnovy.html)
+* [3 способа собрать промисы](http://getinstance.info/articles/javascript/understanding-promises/)
+* [Понимание jQuery.Deferred и Promise](http://getinstance.info/articles/jquery/a-walkthrough-jquery-deferred-and-promise/)
