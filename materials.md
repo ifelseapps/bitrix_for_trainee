@@ -1,6 +1,7 @@
 # Материалы для самостоятельного изучения
 ## PHP
 * [Справочник](http://php.net/manual/ru/)
+* [Перевод стандартов PSR](https://svyatoslav.biz/misc/psr_translation/)
 ## Курсы 1С-Битрикс
 ### Обязательно для изучения
 * [Контент-менеджер](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&referer1=devlearn&referer2=all)
@@ -8,9 +9,9 @@
 * [Администратор.Модули](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41)
 * [Быстрый старт разработчика](https://academy.1c-bitrix.ru/training/course/7785/)
 * [Интеграция дизайна и настройка платформы](https://academy.1c-bitrix.ru/training/course/5862/)
-* [Разработчик Bitrix framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
 * [Основные технологии и расширение типовых возможностей системы](https://academy.1c-bitrix.ru/training/course/5863/)
 * [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/training/course/5864/)
+* [Разработчик Bitrix framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
 * [Странца и порядок ее выполнения](https://dev.1c-bitrix.ru/api_help/main/general/pageplan.php)
 * [Специальные константы](https://dev.1c-bitrix.ru/api_help/main/general/constants.php)
 * [Специальные переменные](https://dev.1c-bitrix.ru/api_help/main/general/magic_vars.php)
@@ -23,7 +24,7 @@
 * [Композитный сайт](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
 * [Администратор.Бизнес](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42)
 * [ResizeImageGet и простой водяной знак налету](http://blog.d-it.ru/dev/resizeimageget-and-a-simple-watermark-on-the-fly/)
-* [КЕШИРОВАНИЕ ДАННЫХ В БИТРИКС D7](https://mrcappuccino.ru/blog/post/bitrix-d7-data-cache)
+* [Кеширование данных в D7](https://mrcappuccino.ru/blog/post/bitrix-d7-data-cache)
 * [Работа с заказом в D7](https://mrcappuccino.ru/blog/post/work-with-order-bitrix-d7)
 * [Работа с корзиной в D7](https://mrcappuccino.ru/blog/post/work-with-basket-bitrix-d7)
 * [Работа с датой и временем в D7](https://mrcappuccino.ru/blog/post/d7-work-with-datetime)
