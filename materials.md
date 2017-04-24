@@ -11,6 +11,10 @@
 * [Разработчик Bitrix framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
 * [Основные технологии и расширение типовых возможностей системы](https://academy.1c-bitrix.ru/training/course/5863/)
 * [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/training/course/5864/)
+* [Странца и порядок ее выполнения](https://dev.1c-bitrix.ru/api_help/main/general/pageplan.php)
+* [Специальные константы](https://dev.1c-bitrix.ru/api_help/main/general/constants.php)
+* [Специальные переменные](https://dev.1c-bitrix.ru/api_help/main/general/magic_vars.php)
+* [Почтовая система](https://dev.1c-bitrix.ru/api_help/main/general/mailevents.php)
 * [Тегированный кеш](http://zhurov.me/blog/bitrix-tagged-cache-dependencies.html)
 
 ### Дополнительно
