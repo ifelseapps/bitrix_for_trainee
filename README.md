@@ -6,6 +6,8 @@
 1. [Результат прохождения практики](result.md)
 
 ## Полезные сервисы
+* [API Битрикс](https://dev.1c-bitrix.ru/api_help/)
+* [API (D7) Биктрикс](https://dev.1c-bitrix.ru/api_d7/)
 * [Исходники Битрикс](https://bxapi.ru/)
 * [Создание сайта в облаке](http://bitrixlabs.ru/)
 * [Тестирование регулярок](http://www.regexr.com/)
