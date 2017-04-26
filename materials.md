@@ -59,6 +59,7 @@
 * [Вебинар: BemUp для начинающих](https://youtu.be/Ai-yt0b8iKE)
 * [Полное руководство по Flexbox](https://frontender.info/a-guide-to-flexbox/)
 * [Практическое руководство по SVG в Web'е](https://svgontheweb.com/ru/)
+* [SVG-спрайты](http://nicothin.pro/page/svg-sprites)
 
 ### Для самых любознательных
 * [Оптимизация рендеринга web-страницы](https://habrahabr.ru/post/224187/)
