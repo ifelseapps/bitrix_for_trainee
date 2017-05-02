@@ -2,6 +2,7 @@
 ## PHP
 * [Справочник](http://php.net/manual/ru/)
 * [Перевод стандартов PSR](https://svyatoslav.biz/misc/psr_translation/)
+* [Паттерны проектирования](http://designpatternsphp.readthedocs.io/ru/latest/README.html)
 ## 1С-Битрикс
 ### Обязательно для изучения
 * [Контент-менеджер](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&referer1=devlearn&referer2=all)
