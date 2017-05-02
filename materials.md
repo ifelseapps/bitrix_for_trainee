@@ -2,7 +2,7 @@
 ## PHP
 * [Справочник](http://php.net/manual/ru/)
 * [Перевод стандартов PSR](https://svyatoslav.biz/misc/psr_translation/)
-## Курсы 1С-Битрикс
+## 1С-Битрикс
 ### Обязательно для изучения
 * [Контент-менеджер](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&referer1=devlearn&referer2=all)
 * [Администратор.Базовый](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=35)
