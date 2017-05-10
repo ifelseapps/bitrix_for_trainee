@@ -20,6 +20,7 @@
 * [Тегированный кеш](http://zhurov.me/blog/bitrix-tagged-cache-dependencies.html)
 
 ### Дополнительно
+* [Разделы инфоблоков Битрикс - используем архитектурные особенности](http://alexvaleev.ru/margin-sections-bitrix/)
 * [Разработка на D7. Введение](https://academy.1c-bitrix.ru/training/course/7252/)
 * [Разработка собственного модуля на D7](https://academy.1c-bitrix.ru/training/course/7507/)
 * [Композитный сайт](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
