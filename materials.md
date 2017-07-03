@@ -18,6 +18,7 @@
 * [Специальные переменные](https://dev.1c-bitrix.ru/api_help/main/general/magic_vars.php)
 * [Почтовая система](https://dev.1c-bitrix.ru/api_help/main/general/mailevents.php)
 * [Тегированный кеш](http://zhurov.me/blog/bitrix-tagged-cache-dependencies.html)
+* [Грабли разработчиков](https://www.youtube.com/watch?v=YW91UPIEfPc)
 
 ### Дополнительно
 * [Разделы инфоблоков Битрикс - используем архитектурные особенности](http://alexvaleev.ru/margin-sections-bitrix/)
